@@ -60,4 +60,6 @@ Tem a função de pré-processamento de dados.Padroniza as características tran
 -transform(): Este método aplica a transformação aos dados, usando a média e o desvio padrão calculados anteriormente.
 
 ## Modelos
-### 
+
+### Regressão linear (LinearRegression)
+Modelo de regressão usado para prever um valor contínuo com base em uma ou mais variáveis de entrada independentes. A relação entre as variáveis de entrada e a variável de saída pode ser representada por uma equação linear "y = ax + b", a qual busca encontrar os melhores valores para os coeficientes a e b que minimizem a distância entre a linha e os pontos de dados reais, geralmente usando o método dos mínimos quadrados.
