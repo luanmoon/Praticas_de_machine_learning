@@ -58,3 +58,6 @@ Tem a função de pré-processamento de dados.Padroniza as características tran
 -fit(): Este método calcula a média e o desvio padrão de cada coluna nos dados de treinamento
 
 -transform(): Este método aplica a transformação aos dados, usando a média e o desvio padrão calculados anteriormente.
+
+## Modelos
+### 
