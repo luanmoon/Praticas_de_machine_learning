@@ -50,4 +50,10 @@ A fórmula da acurácia é:
 <img width="559" height="90" alt="image" src="https://github.com/user-attachments/assets/d95452f4-cf99-4326-9d47-05f3111ccff3" />
 
 
-### Classes
+## Classes
+
+### StandardScale
+Tem a função de pré-processamento de dados.Padroniza as características transformando os dados de modo que cada característica tenha uma média de 0 e um desvio padrão de 1. Isso é feito subtraindo a média e dividindo pelo desvio padrão.
+
+-fit(): Este método calcula a média e o desvio padrão de cada coluna nos dados de treinamento
+-transform(): Este método aplica a transformação aos dados, usando a média e o desvio padrão calculados anteriormente.
