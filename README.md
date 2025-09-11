@@ -1,1 +1,1 @@
-# Pr-ticas_de_machine_learning
+# Praticas_de_machine_learning
