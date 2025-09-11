@@ -56,4 +56,5 @@ A fórmula da acurácia é:
 Tem a função de pré-processamento de dados.Padroniza as características transformando os dados de modo que cada característica tenha uma média de 0 e um desvio padrão de 1. Isso é feito subtraindo a média e dividindo pelo desvio padrão.
 
 -fit(): Este método calcula a média e o desvio padrão de cada coluna nos dados de treinamento
+
 -transform(): Este método aplica a transformação aos dados, usando a média e o desvio padrão calculados anteriormente.
