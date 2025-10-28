@@ -1,8 +1,4 @@
-# Praticas_de_machine_learning
-
-### Execução
-
-Para executar os projetos, basta abrir no  `Google colab`.
+# 1.Regressão e classificação
 
 ## Bibliotecas
 
@@ -67,3 +63,6 @@ Modelo de regressão usado para prever um valor contínuo com base em uma ou mai
 
 ### Regressão logística (LogisticRegression)
 Modelo tipicamente usado em problemas de classificação, a qual é usada para prever resultados binários a partir de variáveis de entrada, a partir da aplicação da função sigmoide (ou logística) para transformar uma combinação linear de variáveis independentes numa probabilidade entre 0 e 1.
+
+
+# 2. Métodos baseados em distância
